@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "rm_1",
     "id": "ef855aa4-7f95-42fd-a506-e3edab5bac80",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -41,9 +41,9 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "4725ecbb-e295-4a4f-a2bf-41c8d714f2a6",
-            "animationFPS": 15,
+            "animationFPS": 60,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4278240255 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,

@@ -119,11 +119,27 @@
             }
         },
         {
+            "Key": "b291ad78-12cd-4c53-a1fb-7a304647d5fe",
+            "Value": {
+                "id": "401a33eb-187a-478b-99d0-a7543c92cdaf",
+                "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c53be07c-48c5-4950-a088-17602e150c0b",
             "Value": {
                 "id": "93789b2b-f29b-4dff-b046-92b96e160c66",
                 "resourcePath": "views\\c53be07c-48c5-4950-a088-17602e150c0b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8898290-c4fd-4d11-bcd7-348d8e820ebf",
+            "Value": {
+                "id": "f4ba03de-8258-47f6-b479-ed802eb4224f",
+                "resourcePath": "sprites\\sWall\\sWall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +156,22 @@
                 "id": "bc8a6221-1fc4-43ce-93f9-2ed4877a89c2",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d880147e-4c5f-4fb5-bdf3-89ba6e5a6987",
+            "Value": {
+                "id": "e2812327-b183-46a0-83a0-9fd186a580b0",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da7562dd-ad5d-4949-9660-72fd2d080bc4",
+            "Value": {
+                "id": "e45f871b-14fb-4122-88f1-4cd910470ac5",
+                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -170,7 +202,7 @@
             "Key": "ef855aa4-7f95-42fd-a506-e3edab5bac80",
             "Value": {
                 "id": "a19079bf-ecf6-4895-8e14-1e15d837b44a",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
                 "resourceType": "GMRoom"
             }
         },
